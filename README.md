@@ -8,11 +8,12 @@ Eks Links
 - 'EKS: EKS + proton + BAckstage' - [link](https://aws.amazon.com/fr/blogs/containers/provisioning-infrastructure-using-the-aws-proton-open-source-backstage-plugin/)
 - 'EKS: Load Testing in EKS' - [link](https://aws.amazon.com/fr/blogs/containers/load-testing-your-workload-running-on-amazon-eks-with-locust)
 - 'EKS: Blue/green deployment with ALB load balancer'. - [link](https://aws.amazon.com/fr/blogs/containers/using-aws-load-balancer-controller-for-blue-green-deployment-canary-deployment-and-a-b-testing/)
+- 'EKS: AWS Proton EKS Clusters' - [link](https://aws.amazon.com/fr/blogs/containers/using-aws-proton-as-a-provisioning-mechanism-for-amazon-eks-clusters)
 - 'EKS: Jenkins HA' - [link](https://aws.amazon.com/fr/blogs/devops/jenkins-high-availability-and-disaster-recovery-on-aws/?nc1=b_rp)
 
 Terraform + Eks
 - 'AWS terraform blueprints' - [link](https://github.com/aws-ia/terraform-aws-eks-blueprints)
 
 ArgoCD 
-- 'Argo Rollout' - [link](https://github.com/aws-ia/terraform-aws-eks-blueprints](https://github.com/argoproj/argo-rollouts)
+- 'Argo Rollout' - [link](https://github.com/argoproj/argo-rollouts)
 
