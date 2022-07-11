@@ -7,6 +7,7 @@ Eks Links
 - 'EKS : Active Active Eks Multi Region Cluster' - [link](https://aws.amazon.com/fr/blogs/containers/run-an-active-active-multi-region-kubernetes-application-with-appmesh-and-eks/)
 - 'EKS: EKS + proton + BAckstage' - [link](https://aws.amazon.com/fr/blogs/containers/provisioning-infrastructure-using-the-aws-proton-open-source-backstage-plugin/)
 - 'EKS: Load Testing in EKS ' - [link](https://aws.amazon.com/fr/blogs/containers/load-testing-your-workload-running-on-amazon-eks-with-locust)
+- 'EKS: Blue/green deployment with ALB load balancer'. - [link](https://aws.amazon.com/fr/blogs/containers/using-aws-load-balancer-controller-for-blue-green-deployment-canary-deployment-and-a-b-testing/)
 - 'EKS: Jenkins HA ' - [link](https://aws.amazon.com/fr/blogs/devops/jenkins-high-availability-and-disaster-recovery-on-aws/?nc1=b_rp)
 
 Terraform + Eks
