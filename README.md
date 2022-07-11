@@ -14,5 +14,5 @@ Terraform + Eks
 - 'AWS terraform blueprints' - [link](https://github.com/aws-ia/terraform-aws-eks-blueprints)
 
 ArgoCD 
-- 'Argo Rollout' - [link]([https://github.com/aws-ia/terraform-aws-eks-blueprints](https://github.com/argoproj/argo-rollouts)
+- 'Argo Rollout' - [link](https://github.com/aws-ia/terraform-aws-eks-blueprints](https://github.com/argoproj/argo-rollouts)
 
