@@ -11,6 +11,10 @@ Eks Links
 - 'EKS: AWS Proton EKS Clusters' - [link](https://aws.amazon.com/fr/blogs/containers/using-aws-proton-as-a-provisioning-mechanism-for-amazon-eks-clusters)
 - 'EKS: Jenkins HA' - [link](https://aws.amazon.com/fr/blogs/devops/jenkins-high-availability-and-disaster-recovery-on-aws/?nc1=b_rp)
 
+Eks Reinvnet usefull presentation
+
+- 'AWS EKS Scale' - [link](https://d1.awsstatic.com/events/reinvent/2019/REPEAT_1_Running_Kubernetes_at_Amazon_scale_using_Amazon_EKS_CON212-R1.pdf)
+
 Terraform + Eks
 - 'AWS terraform blueprints' - [link](https://github.com/aws-ia/terraform-aws-eks-blueprints)
 
