@@ -1,5 +1,9 @@
 # hello-kubernetes
 
+Complete Workshop EKS Training
+
+- 'EKS + GitOps Complete Workshop' - [link](https://weaveworks-gitops.awsworkshop.io/05_introduction.html)
+
 Eks Links
 - 'EKS: Upgrade version blue/green' - [link](https://aws.amazon.com/fr/blogs/containers/kubernetes-cluster-upgrade-the-blue-green-deployment-strategy)
 - 'EKS: Create serverless Admission hooks' - [link](https://aws.amazon.com/fr/blogs/containers/building-serverless-admission-webhooks-for-kubernetes-with-aws-sam)
